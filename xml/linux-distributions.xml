@@ -2,7 +2,8 @@
 <ld:linux-distributions
     xmlns:ld="wrns"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="wrns linux-distibutions.xsd">
+    xsi:schemaLocation="wrns linux-distibutions.xsd"
+    url="https://www.pngall.com/wp-content/uploads/5/Linux-PNG-Pic.png">
     <ld:linux-distribution>
         <ld:name>Debian</ld:name>
         <ld:package-type>deb</ld:package-type>

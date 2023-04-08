@@ -19,6 +19,7 @@
                     </xsd:complexType>
                 </xsd:element>
             </xsd:sequence>
+            <xsd:attribute name="url" />
         </xsd:complexType>
     </xsd:element>
 </xsd:schema>
