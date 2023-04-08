@@ -5,11 +5,59 @@
     xsi:schemaLocation="wrns linux-distibutions.xsd"
     url="https://www.pngall.com/wp-content/uploads/5/Linux-PNG-Pic.png">
     <ld:linux-distribution>
+        <ld:name>Mandriva</ld:name>
+        <ld:package-type>rpm</ld:package-type>
+        <ld:versioning-model>Standard</ld:versioning-model>
+        <ld:first-release>1998-07-23</ld:first-release>
+        <ld:website-url>https://web.archive.org/web/20150523021945/http://www.mandriva.com/en/products-services/mbs/technical-specifications/</ld:website-url>
+    </ld:linux-distribution>
+    <ld:linux-distribution>
+        <ld:name>Fedora</ld:name>
+        <ld:package-type>rpm</ld:package-type>
+        <ld:versioning-model>Standard</ld:versioning-model>
+        <ld:first-release>2003-11-06</ld:first-release>
+        <ld:website-url>https://getfedora.org</ld:website-url>
+    </ld:linux-distribution>
+    <ld:linux-distribution>
         <ld:name>Debian</ld:name>
         <ld:package-type>deb</ld:package-type>
-        <ld:parent-distribution></ld:parent-distribution>
         <ld:versioning-model>Standard</ld:versioning-model>
-        <ld:first-release>1980-01-01</ld:first-release>
+        <ld:first-release>1993-09-15</ld:first-release>
         <ld:website-url>https://www.debian.org</ld:website-url>
+    </ld:linux-distribution>
+    <ld:linux-distribution>
+        <ld:name>Red Hat Enterprise Linux (RHEL)</ld:name>
+        <ld:package-type>rpm</ld:package-type>
+        <ld:versioning-model>Standard</ld:versioning-model>
+        <ld:first-release>2000-02-22</ld:first-release>
+        <ld:website-url>https://www.redhat.com/rhel/</ld:website-url>
+    </ld:linux-distribution>
+    <ld:linux-distribution>
+        <ld:name>Gentoo</ld:name>
+        <ld:package-type>ebuild</ld:package-type>
+        <ld:versioning-model>Rolling</ld:versioning-model>
+        <ld:first-release>2002-03-31</ld:first-release>
+        <ld:website-url>https://www.gentoo.org</ld:website-url>
+    </ld:linux-distribution>
+    <ld:linux-distribution>
+        <ld:name>CentOS</ld:name>
+        <ld:package-type>rpm</ld:package-type>
+        <ld:versioning-model>Standard</ld:versioning-model>
+        <ld:first-release>2004-05-14</ld:first-release>
+        <ld:website-url>https://www.centos.org</ld:website-url>
+    </ld:linux-distribution>
+    <ld:linux-distribution>
+        <ld:name>Ubuntu</ld:name>
+        <ld:package-type>deb</ld:package-type>
+        <ld:versioning-model>Standard</ld:versioning-model>
+        <ld:first-release>2004-10-20</ld:first-release>
+        <ld:website-url>https://www.ubuntu.com</ld:website-url>
+    </ld:linux-distribution>
+    <ld:linux-distribution>
+        <ld:name>OpenSUSE</ld:name>
+        <ld:package-type>rpm</ld:package-type>
+        <ld:versioning-model>Standard</ld:versioning-model>
+        <ld:first-release>2005-10-01</ld:first-release>
+        <ld:website-url>https://www.opensuse.org</ld:website-url>
     </ld:linux-distribution>
 </ld:linux-distributions>
