@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ld:linux-distributions
+    xmlns:ld="wrns"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="wrns linux-distibutions.xsd">
+    <ld:linux-distribution>
+        <ld:name>Debian</ld:name>
+        <ld:package-type>deb</ld:package-type>
+        <ld:parent-distribution></ld:parent-distribution>
+        <ld:versioning-model>Standard</ld:versioning-model>
+        <ld:first-release>1980-01-01</ld:first-release>
+        <ld:website-url>https://www.debian.org</ld:website-url>
+    </ld:linux-distribution>
+</ld:linux-distributions>
